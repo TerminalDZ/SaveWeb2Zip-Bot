@@ -81,13 +81,9 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👤 Author
 
-**Terminal DZ**
+**Idriss Boukmouche**
 - GitHub: [@terminalDZ](https://github.com/terminalDZ)
 
 ## 🙏 Acknowledgments
