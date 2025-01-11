@@ -1,0 +1,12 @@
+{
+  "name": "web-to-zip-bot",
+  "version": "1.0.0",
+  "description": "Bot to download website zips using saveweb2zip.com",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
